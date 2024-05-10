@@ -31,7 +31,7 @@
         "@typescript-eslint/eslint-plugin": "^5.41.0",
         "@typescript-eslint/parser": "^5.41.0",
         "@vue/eslint-config-typescript": "^11.0.2",
-        "axios": "^1.1.3",
+        "axios": "^1.6.0",
         "dayjs": "^1.11.6",
         "element-plus": "^2.2.19",
         "eslint": "^8.26.0",
